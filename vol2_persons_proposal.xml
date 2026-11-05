@@ -1,0 +1,2374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personenverzeichnis volume="2">
+	<person id="p0001">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Abraham</firstname>
+			<familyname>Johannis</familyname>
+			<column_num>37 542 963</column_num>
+			<raw_entry>Abraham Johannis 37 542 963.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Abraham</firstname>
+			<office>prep.</office>
+			<institution>eccl. Lancicien.</institution>
+			<column_num>1157</column_num>
+			<raw_entry>— prep. eccl. Lancicien. 1157.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Abraham</firstname>
+			<familyname>de Monaco</familyname>
+			<column_num>1432</column_num>
+			<raw_entry>— de Monaco 1432.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Abraham</firstname>
+			<familyname>de Novacuria</familyname>
+			<alias>Nemersze</alias>
+			<column_num>156 229 542</column_num>
+			<raw_entry>— d. Nemersze de Novacuria 156 229 542.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0002">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Achacius</firstname>
+			<firstname_variant>Achatius</firstname_variant>
+			<familyname>Frederici de Fyernaw de Zydendorf</familyname>
+			<column_num>37</column_num>
+			<raw_entry>Achacius (Achatius) Frederici de Fyernaw al. de Zydendorf 37.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Achacius</firstname>
+			<firstname_variant>Achatius</firstname_variant>
+			<familyname>de Lichtensteyn</familyname>
+			<column_num>132</column_num>
+			<raw_entry>— de Lichtensteyn 132.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Achacius</firstname>
+			<firstname_variant>Achatius</firstname_variant>
+			<familyname>de Radmansdorf</familyname>
+			<column_num>37</column_num>
+			<raw_entry>— de Radmansdorf 37.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Achacius</firstname>
+			<firstname_variant>Achatius</firstname_variant>
+			<familyname>de Walestein</familyname>
+			<column_num>1</column_num>
+			<raw_entry>— de Walestein 1.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0003">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adalbertus</firstname>
+			<familyname>Henrici</familyname>
+			<column_num>37</column_num>
+			<raw_entry>Adalbertus Henrici 37.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0004">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Bess de Kuya</familyname>
+			<column_num>37</column_num>
+			<raw_entry>Adam Bess de Kuya 37.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<office>tit. s. Cecilie presb. card.</office>
+			<column_num>37 345 347 527 630 729 1030</column_num>
+			<raw_entry>— tit. s. Cecilie presb. card. 37 345 347 527 630 729 1030.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Colonia</familyname>
+			<column_num>1307</column_num>
+			<raw_entry>— de Colonia 1307.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Geystorp</familyname>
+			<familyname_variant>Gerstorp</familyname_variant>
+			<column_num>348 1224</column_num>
+			<raw_entry>— de Geystorp (Gerstorp) 348 1224.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Gladebach</familyname>
+			<column_num>1116</column_num>
+			<raw_entry>— de Gladebach 1116.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Hebbonis de Catwyc</familyname>
+			<familyname_variant>Hobbonis</familyname_variant>
+			<column_num>65 1024</column_num>
+			<raw_entry>— Hebbonis (Hobbonis) de Catwyc 65 1024.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Herfurter</familyname>
+			<column_num>37</column_num>
+			<raw_entry>— Herfurter 37.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Hugonis</familyname>
+			<column_num>38</column_num>
+			<raw_entry>— Hugonis 38.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Leyns</familyname>
+			<column_num>38</column_num>
+			<raw_entry>— de Leyns 38.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Manhart de superiori Heymbach</familyname>
+			<column_num>38</column_num>
+			<raw_entry>— Manhart de superiori Heymbach 38.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Nezetitz</familyname>
+			<column_num>38</column_num>
+			<raw_entry>— de Nezetitz 38.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Nicolai de Banchow</familyname>
+			<column_num>38 1311</column_num>
+			<raw_entry>— Nicolai de Banchow 38 1311.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>de Ponte</familyname>
+			<column_num>1222</column_num>
+			<raw_entry>— de Ponte 1222.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Teucher</familyname>
+			<column_num>1044</column_num>
+			<raw_entry>— Teucher 1044.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adam</firstname>
+			<familyname>Zas</familyname>
+			<column_num>1333</column_num>
+			<raw_entry>— Zas 1333.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0005">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adeko</firstname>
+			<column_num>39</column_num>
+			<raw_entry>Adeko 39.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0006">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adelheid</firstname>
+			<reference>Alheyd</reference>
+			<raw_entry>Adelheid v. Alheyd.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0007">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adericus</firstname>
+			<familyname>de Smalfrede</familyname>
+			<column_num>40</column_num>
+			<raw_entry>Adericus de Smalfrede 40.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0008">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>de Angeren</familyname>
+			<column_num>331 366</column_num>
+			<raw_entry>Adolphus (Adulfus, Atholphus) de Angeren 331 366.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>de Aspach</familyname>
+			<column_num>40</column_num>
+			<raw_entry>— de Aspach 40.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>de Brantlicht</familyname>
+			<column_num>40</column_num>
+			<raw_entry>— de Brantlicht 40.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>Bruwer</familyname>
+			<column_num>40</column_num>
+			<raw_entry>— Bruwer 40.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>Klabelench</familyname>
+			<column_num>970</column_num>
+			<raw_entry>— Klabelench 970.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>Cliven. et de Marka</familyname>
+			<office>com.</office>
+			<column_num>40 728</column_num>
+			<raw_entry>— Cliven. et de Marka com. 40 728.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>34</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<office>aep. Colon.</office>
+			<column_num>1358</column_num>
+			<raw_entry>— aep. Colon. 1358.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>35</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>Fridach</familyname>
+			<column_num>89</column_num>
+			<raw_entry>— Fridach 89.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>36</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<firstname_variant>Adulfus, Atholphus</firstname_variant>
+			<familyname>Grantzyn</familyname>
+			<column_num>40</column_num>
+			<raw_entry>— Grantzyn 40.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0009">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>de Lynepe</familyname>
+			<column_num>197</column_num>
+			<raw_entry>Adolphus de Lynepe 197.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<office>aep. Magunt</office>
+			<reference>A. ep. Spiren</reference>
+			<raw_entry>— aep. Magunt. v. A. ep. Spiren.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>de Medeman</familyname>
+			<column_num>122 123 324</column_num>
+			<raw_entry>— de Medeman 122 123 324.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>de Monte</familyname>
+			<office>com. Ravensberg.</office>
+			<column_num>40 239</column_num>
+			<raw_entry>— de Monte, com. Ravensberg. 40 239.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<office>com. Palatini Reni et dux Bavarie</office>
+			<column_num>816</column_num>
+			<raw_entry>— com. Palatini Reni et dux Bavarie 816.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>Ruwen</familyname>
+			<column_num>1238</column_num>
+			<raw_entry>— Ruwen 1238.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<office>ep. Spiren., aep. Magunt.</office>
+			<column_num>13 56 57 104 168 174 188 409 557 558 582 650 829 840 894 1121</column_num>
+			<raw_entry>— ep. Spiren., aep. Magunt. 13 56 57 104 168 174 188 409 557 558 582 650 829 840 894 1121.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>de Sulramen</familyname>
+			<column_num>367</column_num>
+			<raw_entry>— de Sulramen 367.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<office>com. de Waldegge</office>
+			<column_num>946</column_num>
+			<raw_entry>— com. de Waldegge 946.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>de Wylak</familyname>
+			<column_num>1185</column_num>
+			<raw_entry>— de Wylak 1185.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adolphus</firstname>
+			<familyname>Wolteri de Bomel</familyname>
+			<familyname_variant>Boemel</familyname_variant>
+			<column_num>40 103 373 557 1185 1211 1333</column_num>
+			<raw_entry>— Wolteri de Bomel (Boemel) 40 103 373 557 1185 1211 1333.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0010">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adrianus</firstname>
+			<column_num>335</column_num>
+			<raw_entry>Adrianus 335.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adrianus</firstname>
+			<familyname>Wilelmi Stugg hen</familyname>
+			<column_num>41</column_num>
+			<raw_entry>— Wilelmi Stugg hen 41.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adrianus</firstname>
+			<familyname>de Heenvliet</familyname>
+			<column_num>41 1169</column_num>
+			<raw_entry>— de Heenvliet 41 1169.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Adrianus</firstname>
+			<familyname>Johannis de Biselinghen</familyname>
+			<column_num>41</column_num>
+			<raw_entry>— Johannis de Biselinghen 41.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0011">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Adulphus</firstname>
+			<reference>Adolphus</reference>
+			<raw_entry>Adulphus v. Adolphus.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0012">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Affra</firstname>
+			<reference>Nicolaus Meltzer</reference>
+			<column_num>913</column_num>
+			<raw_entry>Affra 913 (v. Nicolaus Meltzer).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Affra</firstname>
+			<office>abba etc.</office>
+			<institution>mon. in Owensky</institution>
+			<column_num>141</column_num>
+			<raw_entry>— abba etc. mon. in Owensky 141.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0013">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Agatha</firstname>
+			<familyname>Heinyne</familyname>
+			<column_num>1171</column_num>
+			<raw_entry>Agatha Heinyne 1171.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agatha</firstname>
+			<familyname>Jacobi</familyname>
+			<reference>Andreas Guilelmi Voppen</reference>
+			<column_num>70</column_num>
+			<raw_entry>— Jacobi 70 (v. Andreas Guilelmi Voppen).</raw_entry>
+		</entry>
+	</person>
+	<person id="p0014">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Albertus com. Holtzacie</reference>
+			<column_num>55</column_num>
+			<raw_entry>Agnes 55 (v. Albertus com. Holtzacie).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>de Andlaw</familyname>
+			<column_num>42</column_num>
+			<raw_entry>— de Andlaw 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Andreas Essmayster</reference>
+			<column_num>69</column_num>
+			<raw_entry>— 69 (v. Andreas Essmayster).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Angerfelderin de Wyenna</familyname>
+			<reference>Rudolfus Angerfelder</reference>
+			<column_num>1023 1185</column_num>
+			<raw_entry>— Angerfelderin de Wyenna 1023 1185 (v. Rudolfus Angerfelder).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Bernhardus de Hantistain</reference>
+			<column_num>121</column_num>
+			<raw_entry>— 121 (v. Bernhardus de Hantistain).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Chapfenbergerin</familyname>
+			<column_num>42</column_num>
+			<raw_entry>— Chapfenbergerin 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Colnerinn</familyname>
+			<office>abba</office>
+			<institution>mon. in Hohenwart</institution>
+			<column_num>946</column_num>
+			<raw_entry>— Colnerinn, abba mon. in Hohenwart 946.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Conradus Gruenwalder</reference>
+			<column_num>180</column_num>
+			<raw_entry>— 180 (v. Conradus Gruenwalder).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Emerici de Landenburg</familyname>
+			<reference>Johannes Faber de Muwer</reference>
+			<column_num>618</column_num>
+			<raw_entry>— Emerici de Landenburg 618 (v. Johannes Faber de Muwer).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Folpardus de Hyen</reference>
+			<column_num>42</column_num>
+			<raw_entry>— 42 (v. Folpardus de Hyen).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Fredericus com. de Bichelingen</reference>
+			<column_num>285</column_num>
+			<raw_entry>— 285 (v. Fredericus com. de Bichelingen).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Fridericus baro de Gundelfragen</reference>
+			<column_num>292</column_num>
+			<raw_entry>— (v. Fridericus baro de Gundelfragen) 292.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0014.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Fridericus Hasler</reference>
+			<column_num>293</column_num>
+			<raw_entry>— 293 (v. Fridericus Hasler).</raw_entry>
+		</entry>
+	</person>
+	<person id="p0015">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Fridericus Judex</reference>
+			<column_num>295</column_num>
+			<raw_entry>Agnes 295 (v. Fridericus Judex).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Fredericus vom Staynhus</reference>
+			<column_num>302</column_num>
+			<raw_entry>— 302 (v. Fredericus vom Staynhus).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<office>comitissa de Henneberg</office>
+			<column_num>999</column_num>
+			<raw_entry>— comitissa de Henneberg 999.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Georgius Aron de Monte, Gerardus Schaup</reference>
+			<column_num>1217</column_num>
+			<raw_entry>— 1217 (v. Georgius Aron de Monte, Gerardus Schaup).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Johannes de Kircheim</reference>
+			<column_num>1253</column_num>
+			<raw_entry>— 1253 (v. Johannes de Kircheim).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Johannes Oltman, Conradus Brem</reference>
+			<column_num>715</column_num>
+			<raw_entry>— 715 (v. Johannes Oltman, Conradus Brem).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Johannes Stasser</reference>
+			<column_num>1028</column_num>
+			<raw_entry>— 1028 (v. Johannes Stasser).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Johannes Wernheri d. Frewler</reference>
+			<column_num>786</column_num>
+			<raw_entry>— 786 (v. Johannes Wernheri d. Frewler).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Johannes de Wonde</reference>
+			<column_num>795</column_num>
+			<raw_entry>— 795 (v. Johannes de Wonde).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Marquardus Archer</reference>
+			<column_num>844</column_num>
+			<raw_entry>— 844 (v. Marquardus Archer).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Nicolaus Altenach</reference>
+			<column_num>876</column_num>
+			<raw_entry>— 876 (v. Nicolaus Altenach).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Nicolaus Merebot</reference>
+			<column_num>914</column_num>
+			<raw_entry>— 914 (v. Nicolaus Merebot).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Nicolaus Stayner</reference>
+			<column_num>928</column_num>
+			<raw_entry>— 928 (v. Nicolaus Stayner).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Otto de Rielitz</reference>
+			<column_num>954</column_num>
+			<raw_entry>— 954 (v. Otto de Rielitz).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Petrus d. Wolko de Antiqua Volavia</reference>
+			<column_num>999</column_num>
+			<raw_entry>— 999 (v. Petrus d. Wolko de Antiqua Volavia).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<office>magistra in Pulgarn</office>
+			<column_num>42</column_num>
+			<raw_entry>— magistra in Pulgarn 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Schifrin</familyname>
+			<reference>Andreas Vischel</reference>
+			<column_num>69</column_num>
+			<raw_entry>— Schifrin 69 (v. Andreas Vischel).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Schiltyne</familyname>
+			<column_num>42</column_num>
+			<raw_entry>— Schiltyne 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Schlichtingin</familyname>
+			<column_num>42</column_num>
+			<raw_entry>— Schlichtingin 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<office>abba etc.</office>
+			<institution>mon. s. Servatii Traiect.</institution>
+			<column_num>42</column_num>
+			<raw_entry>— abba etc. mon. s. Servatii Traiect. 42.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Symon d. Wisker</reference>
+			<column_num>1050</column_num>
+			<raw_entry>— 1050 (v. Symon d. Wisker).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>Tydemanni de Monghelaer</familyname>
+			<reference>Philippus Arnesti</reference>
+			<column_num>267</column_num>
+			<raw_entry>— Tydemanni de Monghelaer 267 (v. Philippus Arnesti).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Ulricus Bog al. d. Kleinuolrich</reference>
+			<column_num>1124</column_num>
+			<raw_entry>— 1124 (v. Ulricus Bog al. d. Kleinuolrich).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<reference>Ulricus Neydekker</reference>
+			<column_num>42</column_num>
+			<raw_entry>— 42 (v. Ulricus Neydekker).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Agnes</firstname>
+			<familyname>de Wyssche</familyname>
+			<column_num>42</column_num>
+			<raw_entry>— de Wyssche 42.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0016">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Ayo</firstname>
+			<familyname>de Pilsim</familyname>
+			<column_num>42</column_num>
+			<raw_entry>Ayo de Pilsim 42.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0017">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Alanus</firstname>
+			<familyname>Avis</familyname>
+			<familyname_variant>d. Vogel</familyname_variant>
+			<column_num>43 87</column_num>
+			<raw_entry>Alanus Avis (d. Vogel) 43 87.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0018">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>de Bastonia</familyname>
+			<column_num>741</column_num>
+			<raw_entry>Alardus de Bastonia 741.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>Bremer</familyname>
+			<column_num>43 1086</column_num>
+			<raw_entry>— Bremer 43 1086.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>de Dryel</familyname>
+			<column_num>43</column_num>
+			<raw_entry>— de Dryel 43.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>Henconis</familyname>
+			<column_num>44</column_num>
+			<raw_entry>— Henconis 44.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>Jarici de Scauria</familyname>
+			<column_num>44</column_num>
+			<raw_entry>— Jarici de Scauria 44.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>Johannis Alardi de Molendino</familyname>
+			<column_num>44 284 1223 1258 1313</column_num>
+			<raw_entry>— Johannis Alardi de Molendino 44 284 1223 1258 1313.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>34</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>de Quernhem</familyname>
+			<column_num>1333</column_num>
+			<raw_entry>— de Quernhem 1333.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>35</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Alardus</firstname>
+			<familyname>Utenweerde</familyname>
+			<column_num>45</column_num>
+			<raw_entry>— Utenweerde 45.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0019">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>36</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albericus</firstname>
+			<familyname>Stanislai de Modlna</familyname>
+			<column_num>45</column_num>
+			<raw_entry>Albericus Stanislai de Modlna 45.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0020">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>37</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albero</firstname>
+			<column_num>221</column_num>
+			<raw_entry>Albero 221.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0021">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>38</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albertus</firstname>
+			<column_num>631</column_num>
+			<raw_entry>Albertus 631.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>39</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<column_num>698</column_num>
+			<raw_entry>— 698.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>40</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<column_num>1186</column_num>
+			<raw_entry>— 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>41</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Adalberti de Cobilinc</familyname>
+			<column_num>45</column_num>
+			<raw_entry>— Adalberti de Cobilinc 45.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>42</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Ade</familyname>
+			<column_num>45</column_num>
+			<raw_entry>— Ade 45.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>43</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>abb.</office>
+			<institution>mon. Admont.</institution>
+			<column_num>1170</column_num>
+			<raw_entry>— abb. mon. Admont. 1170.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>44</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Adoltzheim</familyname>
+			<column_num>45</column_num>
+			<raw_entry>— de Adoltzheim 45.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>45</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Alardi de Bartensten</familyname>
+			<column_num>11</column_num>
+			<raw_entry>— Alardi de Bartensten 11.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0022">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Alberti</familyname>
+			<column_num>46</column_num>
+			<raw_entry>Albertus Alberti 46.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Alberti de Blani</familyname>
+			<column_num>1185</column_num>
+			<raw_entry>— Alberti de Blani 1185.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Alberti Sartoris de Novacivitate</familyname>
+			<column_num>46</column_num>
+			<raw_entry>— Alberti Sartoris de Novacivitate 46.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Apeldornebeke</familyname>
+			<column_num>819</column_num>
+			<raw_entry>— de Apeldornebeke 819.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Alpinis</familyname>
+			<column_num>1117</column_num>
+			<raw_entry>— de Alpinis 1117.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>[III.]</familyname>
+			<office>dux Austrie</office>
+			<column_num>1 46 83 112 607 996</column_num>
+			<raw_entry>— [III.] dux Austrie 1 46 83 112 607 996.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>[IV.]</familyname>
+			<office>dux Austrie</office>
+			<column_num>291 597 1185 1225</column_num>
+			<raw_entry>— [IV.] dux Austrie 291 597 1185 1225.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Backenstayn</familyname>
+			<column_num>795</column_num>
+			<raw_entry>— de Backenstayn 795.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Bandelowo</familyname>
+			<reference>A. Vincentii de B</reference>
+			<raw_entry>— Bandelowo v. A. Vincentii de B.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Banner</familyname>
+			<column_num>1333</column_num>
+			<raw_entry>— Banner 1333.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>dux Bavarie et comes Hollandie</office>
+			<column_num>46 379 809</column_num>
+			<raw_entry>— dux Bavarie et comes Hollandie 46 379 809.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Berka</familyname>
+			<column_num>1339</column_num>
+			<raw_entry>— de Berka 1339.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Bere</familyname>
+			<column_num>46</column_num>
+			<raw_entry>— Bere 46.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Bergherdorpe</familyname>
+			<column_num>515</column_num>
+			<raw_entry>— Bergherdorpe 515.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Berninchusen</familyname>
+			<column_num>501</column_num>
+			<raw_entry>— de Berninchusen 501.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Biutelspach</familyname>
+			<column_num>46</column_num>
+			<raw_entry>— de Biutelspach 46.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Blarer</familyname>
+			<column_num>46 846 1002 1028</column_num>
+			<raw_entry>— Blarer 46 846 1002 1028.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Blomberghe</familyname>
+			<column_num>514</column_num>
+			<raw_entry>— de Blomberghe 514.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Bluecher</familyname>
+			<column_num>1400</column_num>
+			<raw_entry>— Bluecher 1400.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Boppe</familyname>
+			<column_num>1212</column_num>
+			<raw_entry>— Boppe 1212.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Borwangen</familyname>
+			<column_num>203</column_num>
+			<raw_entry>— de Borwangen 203.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Botelstete</familyname>
+			<column_num>1186</column_num>
+			<raw_entry>— Botelstete 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>aep. Bremen.</office>
+			<column_num>1 8 47 220 224 642 929 1008 1020</column_num>
+			<raw_entry>— aep. Bremen. 1 8 47 220 224 642 929 1008 1020.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Bussnang</familyname>
+			<column_num>584</column_num>
+			<raw_entry>— de Bussnang 584.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Kalba</familyname>
+			<column_num>47</column_num>
+			<raw_entry>— de Kalba 47.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Chastner de Intzing</familyname>
+			<column_num>1186</column_num>
+			<raw_entry>— Chastner de Intzing 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Kauffungen</familyname>
+			<familyname_variant>Kouffungen</familyname_variant>
+			<column_num>47 878 1105</column_num>
+			<raw_entry>— de Kauffungen (Kouffungen) 47 878 1105.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<alias>Cellerarius</alias>
+			<column_num>1149 1434</column_num>
+			<raw_entry>— d. Cellerarius 1149 1434.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Kerkhoff</familyname>
+			<column_num>1039</column_num>
+			<raw_entry>— Kerkhoff 1039.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Cerretyn</familyname>
+			<column_num>771</column_num>
+			<raw_entry>— Cerretyn 771.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Kinling</familyname>
+			<column_num>47</column_num>
+			<raw_entry>— Kinling 47.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Cinnia</familyname>
+			<column_num>1359</column_num>
+			<raw_entry>— de Cinnia 1359.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>burggravius de Kirchberg</office>
+			<column_num>47 1070</column_num>
+			<raw_entry>— burggravius de Kirchberg 47 1070.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>34</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Kirchob</familyname>
+			<column_num>47</column_num>
+			<raw_entry>— Kirchob 47.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>35</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Knoche</familyname>
+			<column_num>47</column_num>
+			<raw_entry>— Knoche 47.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>36</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Knopemaker</familyname>
+			<column_num>47 177</column_num>
+			<raw_entry>— Knopemaker 47 177.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>37</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Chodel</familyname>
+			<column_num>1333</column_num>
+			<raw_entry>— Chodel 1333.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>38</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Kolditz</familyname>
+			<column_num>48</column_num>
+			<raw_entry>— de Kolditz 48.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>39</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Comitis</familyname>
+			<column_num>48</column_num>
+			<raw_entry>— Comitis 48.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>40</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Conradi Legelin de Phortzhem</familyname>
+			<column_num>48</column_num>
+			<raw_entry>— Conradi Legelin de Phortzhem 48.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>41</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>ep. Constant.</office>
+			<column_num>1334 1394 1415</column_num>
+			<raw_entry>— ep. Constant. 1334 1394 1415.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>42</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Constorff</familyname>
+			<column_num>1192 1339</column_num>
+			<raw_entry>— de Constorff 1192 1339.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>43</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Coper</familyname>
+			<column_num>48 809</column_num>
+			<raw_entry>— Coper 48 809.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>44</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Creyenberch</familyname>
+			<column_num>49 144 807 1152 1186</column_num>
+			<raw_entry>— de Creyenberch 49 144 807 1152 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>45</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Cremer</familyname>
+			<column_num>136</column_num>
+			<raw_entry>— Cremer 136.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>46</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Crest</familyname>
+			<column_num>581</column_num>
+			<raw_entry>— Crest 581.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>47</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Crevet</familyname>
+			<column_num>853</column_num>
+			<raw_entry>— Crevet 853.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0015.jpg</source_image>
+			<entry_no>48</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Chuden</familyname>
+			<column_num>48</column_num>
+			<raw_entry>— de Chuden 48.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0023">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Kunow</familyname>
+			<column_num>1409</column_num>
+			<raw_entry>Albertus Kunow 1409.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Kuntz</familyname>
+			<column_num>50</column_num>
+			<raw_entry>— de Kuntz 50.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Curia</familyname>
+			<column_num>421 553 969</column_num>
+			<raw_entry>— de Curia 421 553 969.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Derslai</familyname>
+			<column_num>51</column_num>
+			<raw_entry>— Derslai 51.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Dinslich de Saxonía</familyname>
+			<office>el. Argien.</office>
+			<column_num>1334</column_num>
+			<raw_entry>— Dinslich de Saxonía, el. Argien. 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<alias>Dufel</alias>
+			<column_num>227</column_num>
+			<raw_entry>— d. Dufel 227.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Dureghe</familyname>
+			<column_num>51</column_num>
+			<raw_entry>— Dureghe 51.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Ebhing</familyname>
+			<column_num>1335</column_num>
+			<raw_entry>— Ebhing 1335.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Egmonda</familyname>
+			<column_num>629 793 1107</column_num>
+			<raw_entry>— de Egmonda 629 793 1107.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Einbecke</familyname>
+			<column_num>51</column_num>
+			<raw_entry>— Einbecke 51.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Eldagesim</familyname>
+			<column_num>51</column_num>
+			<raw_entry>— Eldagesim 51.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Eldingen</familyname>
+			<column_num>51 245</column_num>
+			<raw_entry>— de Eldingen 51 245.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>abb.</office>
+			<institution>mon. Elwangen.</institution>
+			<column_num>52 689 1044</column_num>
+			<raw_entry>— abb. mon. Elwangen. 52 689 1044.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Engla</familyname>
+			<column_num>52</column_num>
+			<raw_entry>— de Engla 52.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Erenberg</familyname>
+			<column_num>70 216 623</column_num>
+			<raw_entry>— de Erenberg 70 216 623.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Esschenweghe</familyname>
+			<column_num>767</column_num>
+			<raw_entry>— de Esschenweghe 767.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Fabri</familyname>
+			<column_num>52</column_num>
+			<raw_entry>— Fabri 52.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Veltaw</familyname>
+			<familyname_variant>Vettaw</familyname_variant>
+			<column_num>52 950</column_num>
+			<raw_entry>— de Veltaw (Vettaw) 52 950.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Fischborn</familyname>
+			<column_num>13</column_num>
+			<raw_entry>— de Fischborn 13.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Fischer</familyname>
+			<column_num>52</column_num>
+			<raw_entry>— Fischer 52.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Fleischman</familyname>
+			<column_num>52 604 956 1044 1186 1200</column_num>
+			<raw_entry>— Fleischman 52 604 956 1044 1186 1200.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Vogel</familyname>
+			<column_num>650</column_num>
+			<raw_entry>— Vogel 650.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Volkenstorfer de Chiewczen</familyname>
+			<column_num>53</column_num>
+			<raw_entry>— Volkenstorfer de Chiewczen 53.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Vorkouffer</familyname>
+			<column_num>53</column_num>
+			<raw_entry>— Vorkouffer 53.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Vryensten</familyname>
+			<column_num>53</column_num>
+			<raw_entry>— Vryensten 53.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Ganguli</familyname>
+			<column_num>774</column_num>
+			<raw_entry>— de Ganguli 774.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Geffekeu</familyname>
+			<reference>A. Seffekeu</reference>
+			<raw_entry>— Geffekeu v. A. Seffekeu.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gerardi de Oyta</familyname>
+			<familyname_variant>Oyca</familyname_variant>
+			<column_num>53</column_num>
+			<raw_entry>— Gerardi de Oyta (Oyca) 53.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gotghemak</familyname>
+			<familyname_variant>Gotgemark</familyname_variant>
+			<column_num>60 173 839</column_num>
+			<raw_entry>— Gotghemak (Gotgemark) 60 173 839.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gotherum et Suevorum</familyname>
+			<office>rex</office>
+			<reference>A. Suecie rex</reference>
+			<raw_entry>— Gotherum et Suevorum rex v. A. Suecie rex.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>abb.</office>
+			<institution>mon. in Gotzaw</institution>
+			<column_num>54</column_num>
+			<raw_entry>— abb. mon. in Gotzaw 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Grerupelcover</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Grerupelcover 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Grippetan</familyname>
+			<office>abb.</office>
+			<institution>mon. s. Michaelis Hildesem.</institution>
+			<column_num>54 58</column_num>
+			<raw_entry>— Grippetan, abb. mon. s. Michaelis Hildesem. 54 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>34</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gryssten</familyname>
+			<column_num>404</column_num>
+			<raw_entry>— Gryssten 404.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>35</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Guldenkrone</familyname>
+			<column_num>1334</column_num>
+			<raw_entry>— Guldenkrone 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>36</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gultzowe</familyname>
+			<column_num>853</column_num>
+			<raw_entry>— Gultzowe 853</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>37</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Gumperti</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Gumperti 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>38</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>prep. Gure.</office>
+			<column_num>1114</column_num>
+			<raw_entry>— prep. Gure. 1114.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>39</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Haer</familyname>
+			<column_num>328 329</column_num>
+			<raw_entry>— de Haer 328 329.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>40</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>ep. Halberstad.</office>
+			<column_num>162 263 731 872 1098</column_num>
+			<raw_entry>— ep. Halberstad. 162 263 731 872 1098.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>41</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hamman</familyname>
+			<column_num>54 306</column_num>
+			<raw_entry>— Hamman 54 306.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>42</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hardi</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Hardi 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>43</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Haxthusen</familyname>
+			<column_num>1334</column_num>
+			<raw_entry>— de Haxthusen 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>44</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Heblinger</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Heblinger 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>45</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Heket</familyname>
+			<column_num>681</column_num>
+			<raw_entry>— Heket 681.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>46</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hellinck</familyname>
+			<familyname_variant>Helling</familyname_variant>
+			<column_num>236 836</column_num>
+			<raw_entry>— Hellinck (Helling) 236 836.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>47</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>ep. Herbipol.</office>
+			<column_num>494</column_num>
+			<raw_entry>— ep. Herbipol. 494.</raw_entry>
+		</entry>
+	</person>
+	<person id="p0024">
+		<entry type="main">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>1</entry_no>
+			<is_dash>0</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hese</familyname>
+			<column_num>54</column_num>
+			<raw_entry>Albertus Hese 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>2</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Hespurg</familyname>
+			<familyname_variant>Hesseburg</familyname_variant>
+			<column_num>256 723 882 996</column_num>
+			<raw_entry>— de Hespurg (Hesseburg) 256 723 882 996.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>3</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Heumader</familyname>
+			<column_num>1334</column_num>
+			<raw_entry>— Heumader 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>4</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hirsinger</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Hirsinger 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>5</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Hoenloch</familyname>
+			<column_num>54 795</column_num>
+			<raw_entry>— de Hoenloch 54 795.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>6</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hofart</familyname>
+			<column_num>361</column_num>
+			<raw_entry>— Hofart 361.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>7</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hofhenke</familyname>
+			<column_num>54</column_num>
+			<raw_entry>— Hofhenke 54.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>8</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Hofmaier</familyname>
+			<column_num>1126</column_num>
+			<raw_entry>— Hofmaier 1126.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>9</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>com. Holtzacie</office>
+			<column_num>55</column_num>
+			<raw_entry>— com. Holtzacie 55.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>10</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Horne</familyname>
+			<column_num>55 136 858</column_num>
+			<raw_entry>— de Horne 55 136 858.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>11</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Jaghote</familyname>
+			<column_num>1334</column_num>
+			<raw_entry>— Jaghote 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>12</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Jastrabetz</familyname>
+			<office>ep. (el.) Poznan.</office>
+			<column_num>55 73 79 229 905 915 963 1004 1168 1186 1196 1252 1287 1291 1300 1334</column_num>
+			<raw_entry>— Jastrabetz, ep. (el.) Poznan. 55 73 79 229 905 915 963 1004 1168 1186 1196 1252 1287 1291 1300 1334.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>13</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>precept.</office>
+			<institution>dom. hosp. Jerus. Poznan.</institution>
+			<column_num>1196</column_num>
+			<raw_entry>— precept. dom. hosp. Jerus. Poznan. 1196.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>14</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Johannis</familyname>
+			<column_num>55</column_num>
+			<raw_entry>— Johannis 55.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>15</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Johannis de Wynnagora</familyname>
+			<column_num>55</column_num>
+			<raw_entry>— Johannis de Wynnagora 55.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>16</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Imminchusen</familyname>
+			<column_num>55</column_num>
+			<raw_entry>— de Imminchusen 55.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>17</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Landesrost</familyname>
+			<column_num>311</column_num>
+			<raw_entry>— de Landesrost 311.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>18</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Laurentii de Lagewniki</familyname>
+			<column_num>762 1186</column_num>
+			<raw_entry>— Laurentii de Lagewniki 762 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>19</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Liebhardi</familyname>
+			<column_num>1186</column_num>
+			<raw_entry>— Liebhardi 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>20</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Lindowe</familyname>
+			<column_num>55</column_num>
+			<raw_entry>— de Lindowe 55.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>21</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>com. de Lyssenik (Lisnig)</office>
+			<reference>A. in Mutzow, A. in Penik</reference>
+			<column_num>662 1186 1249</column_num>
+			<raw_entry>— com. de Lyssenik (Lisnig) 662 1186 1249 (v. A. in Mutzow, A. in Penik).</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>22</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>baro de Litaw al. de Sterenberg</office>
+			<column_num>943</column_num>
+			<raw_entry>— baro de Litaw al. de Sterenberg 943.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>23</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Loden ten Antbade</familyname>
+			<column_num>56</column_num>
+			<raw_entry>— de Loden al. ten Antbade 56.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>24</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Loebli</familyname>
+			<column_num>56</column_num>
+			<raw_entry>— Loebli 56.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>25</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Lower</familyname>
+			<column_num>47 56</column_num>
+			<raw_entry>— Lower 47 56.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>26</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>aep. Magdeburg.</office>
+			<column_num>1 8 56 114 383 438 577 608 652 735 873 1078</column_num>
+			<raw_entry>— aep. Magdeburg. 1 8 56 114 383 438 577 608 652 735 873 1078.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>27</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Meckmulen</familyname>
+			<column_num>58</column_num>
+			<raw_entry>— Meckmulen 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>28</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Meyser</familyname>
+			<column_num>1397</column_num>
+			<raw_entry>— Meyser 1397.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>29</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>abb.</office>
+			<institution>mon. in Mulnbrunne</institution>
+			<column_num>1186</column_num>
+			<raw_entry>— abb. mon. in Mulnbrunne 1186.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>30</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Muntzo de Rotenburg</familyname>
+			<column_num>58</column_num>
+			<raw_entry>— Muntzo de Rotenburg 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>31</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>in Mutzow</familyname>
+			<office>dominus, burggravius in Lissnik</office>
+			<column_num>58</column_num>
+			<raw_entry>— in Mutzow dominus, burggravius in Lissnik 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>32</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Naon</familyname>
+			<column_num>58</column_num>
+			<raw_entry>— Naon 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>33</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Nisszelrit</familyname>
+			<column_num>58</column_num>
+			<raw_entry>— Nisszelrit 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>34</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Nusperger</familyname>
+			<column_num>1429</column_num>
+			<raw_entry>— Nusperger 1429.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>35</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Ottensheyn</familyname>
+			<column_num>75</column_num>
+			<raw_entry>— Ottensheyn 75.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>36</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Otwecke</familyname>
+			<column_num>59</column_num>
+			<raw_entry>— Otwecke 59.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>37</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Pachenstayn</familyname>
+			<column_num>901</column_num>
+			<raw_entry>— de Pachenstayn 901.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>38</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>ep. Patav.</office>
+			<column_num>8 26 155 340 529 615 800</column_num>
+			<raw_entry>— ep. Patav. 8 26 155 340 529 615 800.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>39</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>in Penik</familyname>
+			<office>dominus, burggravius in Lissnik</office>
+			<column_num>58</column_num>
+			<raw_entry>— in Penik dominus, burggravius in Lissnik 58.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>40</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Perner</familyname>
+			<column_num>59</column_num>
+			<raw_entry>— Perner 59.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>41</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<office>dec.</office>
+			<institution>eccl. s. Petri Argent.</institution>
+			<column_num>1307</column_num>
+			<raw_entry>— dec. eccl. s. Petri Argent. 1307.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>42</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Pincerna de Landisberg</familyname>
+			<column_num>48</column_num>
+			<raw_entry>— Pincerna de Landisberg 48.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>43</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>Pynnonis</familyname>
+			<familyname_variant>Pinonis</familyname_variant>
+			<column_num>59 914</column_num>
+			<raw_entry>— Pynnonis (Pinonis) 59 914.</raw_entry>
+		</entry>
+		<entry type="continuation">
+			<source_image>..\He 6481 (2,2_3_0016.jpg</source_image>
+			<entry_no>44</entry_no>
+			<is_dash>1</is_dash>
+			<firstname>Albertus</firstname>
+			<familyname>de Potenstete</familyname>
+			<familyname_variant>Putenstete</familyname_variant>
+			<column_num>1192 1339</column_num>
+			<raw_entry>— de Potenstete (Putenstete) 1192 1339.</raw_entry>
+		</entry>
+	</person>
+</personenverzeichnis>
